@@ -1,0 +1,16 @@
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\bin\Debug\net6.0-windows\WinFormsApp forms.exe
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\bin\Debug\net6.0-windows\WinFormsApp forms.deps.json
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\bin\Debug\net6.0-windows\WinFormsApp forms.runtimeconfig.json
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\bin\Debug\net6.0-windows\WinFormsApp forms.dll
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\bin\Debug\net6.0-windows\WinFormsApp forms.pdb
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\obj\Debug\net6.0-windows\WinFormsApp_forms.Form1.resources
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\obj\Debug\net6.0-windows\WinFormsApp forms.vbproj.GenerateResource.cache
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\obj\Debug\net6.0-windows\WinFormsApp forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\obj\Debug\net6.0-windows\WinFormsApp forms.AssemblyInfoInputs.cache
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\obj\Debug\net6.0-windows\WinFormsApp forms.AssemblyInfo.vb
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\obj\Debug\net6.0-windows\WinFormsApp forms.vbproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\obj\Debug\net6.0-windows\WinFormsApp forms.dll
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\obj\Debug\net6.0-windows\refint\WinFormsApp forms.dll
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\obj\Debug\net6.0-windows\WinFormsApp forms.pdb
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\obj\Debug\net6.0-windows\WinFormsApp forms.genruntimeconfig.cache
+C:\Users\domin\Desktop\UNI WORK\VB.NET\WinFormsApp forms\WinFormsApp forms\obj\Debug\net6.0-windows\ref\WinFormsApp forms.dll
